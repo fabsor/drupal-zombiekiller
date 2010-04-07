@@ -3,7 +3,7 @@
 ZOMBIE KILLER
 -------------
 
-This module kills zombies! Why? Because someone said "Bet Drupal can't kill
+This module kills zombies. Why? Because someone said "Bet Drupal can't kill
 zombies". How wrong can you be.
 
 Zombie killer lets you kill (reap) zombie processes on UNIX-like systems,
