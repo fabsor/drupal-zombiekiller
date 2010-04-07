@@ -13,7 +13,9 @@ for this to actually work, Apache must have the licence to kill.
 This project was just for fun. But who knows, it might even be useful one day.
 
 
-WARNING:
+WARNING
+-------
+
 You should not use this module unless you understand the consequences of
 killing processes. Killing zombie processes or their parents can cause serious
 trouble. So think twice before going on a killing spree!
